@@ -1,1 +1,1 @@
-# Spiking-Neural-Network_papers
+# Spiking-Neural-Network-papers
